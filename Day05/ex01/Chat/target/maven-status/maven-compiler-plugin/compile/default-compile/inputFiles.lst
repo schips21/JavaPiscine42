@@ -1,0 +1,7 @@
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/models/DataSource.java
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/models/Message.java
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/app/Program.java
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/models/Chatroom.java
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepository.java
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepositoryJdbcImpl.java
+/Users/schips/Desktop/git_05/ex01/Chat/src/main/java/edu/school21/chat/models/User.java
